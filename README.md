@@ -58,6 +58,7 @@ To analyze Blinkit's grocery dataset and:
 ### ➤ Dashboards
 - Power BI dashboard showing KPIs and detailed breakdowns
 - Excel dashboard with pivot tables and charts
+- ![Dashboard Preview](assets/dashboard.png)
 
 ---
 
